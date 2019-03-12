@@ -20,7 +20,7 @@ The distributed scoreboard is divided into following categories:
 </p>
 <p>
 If you'd like to contribute builds to our virtual
-scoreboard open a <a href ="https://github.com/DOCGroup/autobuild">pull request</a>
+scoreboard open a <a href ="https://github.com/DOCGroup/scoreboard">pull request</a>
 with the platform you want to contribute.
 Instructions for setting up your own daily build and
 scoreboard are available
