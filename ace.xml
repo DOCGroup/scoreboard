@@ -22,6 +22,20 @@ is tested everyday.
     <build_sponsor>OCI</build_sponsor>
     <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
   </build>
+  <build>
+    <name>SLES150_i686_debug</name>
+    <url>http://buildlogs.remedy.nl/sles150_ace_i686_debug/</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
+   </build>
+  <build>
+    <name>SLES150_i686_release</name>
+    <url>http://buildlogs.remedy.nl/sles150_ace_i686_release/</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
+   </build>
 </group>
 
 </scoreboard>
