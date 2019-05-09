@@ -125,6 +125,12 @@ is tested everyday.
       <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
     </build>
     <build>
+      <name>Win10x64_VS2019_Debug</name>
+      <url>http://scoreboard.ociweb.com/doc_master_katydid_win10-x64_vs2019_d1o0</url>
+      <build_sponsor>OCI</build_sponsor>
+      <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
+    </build>
+    <build>
       <name>MingW64_Win64_GCC_Release</name>
       <url>http://buildlogs.remedy.nl/win_mingw64_64_tao</url>
       <build_sponsor>Remedy IT</build_sponsor>
