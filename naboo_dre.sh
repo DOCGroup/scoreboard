@@ -1,5 +1,4 @@
 #!/bin/sh
-# $Id$
 
 PERLLIB=autobuild
 export PERLLIB
