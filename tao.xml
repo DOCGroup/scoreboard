@@ -87,8 +87,8 @@ is tested everyday.
 <group>
    <name>Windows</name>
     <build>
-      <name>Win_VC15_Debug</name>
-      <url>https://buildlogs.remedy.nl/win_msvc15_tao_debug</url>
+      <name>Win_vs2019_Debug</name>
+      <url>https://buildlogs.remedy.nl/win_vs2019_tao_debug</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
