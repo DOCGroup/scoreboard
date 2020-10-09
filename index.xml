@@ -3,7 +3,7 @@
 <P>
 You have reached the logically existing, virtual <a href="https://github.com/DOCGroup">DOCGroup</a>
 scoreboard.  It shows all the OS/compiler combinations 
-<a href="https://github.com/DOCGroup/ACE_TAO">ACE/TAO</a>/<a href="https://github.com/DOCGroup/CIAO">CIAO</a>/<a href="https://github.com/DOCGroup/DAnCE">DANCE</a> and 
+<a href="https://github.com/DOCGroup/ACE_TAO">ACE/TAO</a>/<a href="https://github.com/DOCGroup/CIAO">CIAO</a>/<a href="https://github.com/DOCGroup/DAnCE">DAnCE</a> and 
 <a href="https://github.com/objectcomputing/OpenDDS">OpenDDS</a> are
 tested against everyday, all over the world.  We have builds running
 continuously at
@@ -14,7 +14,7 @@ continuously at
 The distributed scoreboard is divided into following categories:
 <li>ACE Builds for Release [<a href="./ace.html">regular</a>|<a href="ace.rss">rss</a>]</li>
 <li>TAO Builds for Release [<a href="./tao.html">regular</a>|<a href="tao.rss">rss</a>]</li>
-<li>CIAO Builds for Release [<a href="./ciao.html">regular</a>|<a href="ciao.rss">rss</a>]</li>
+<li>CIAO/DAnCE Builds for Release [<a href="./ciao.html">regular</a>|<a href="ciao.rss">rss</a>]</li>
 <li>OpenDDS Builds for Release [<a href="./dds.html">regular</a>|<a href="dds.rss">rss</a>]</li>
 <li><a href="./integrated.html">Integrated</a> page having all the
     above in a single page for folks who like it! </li>
