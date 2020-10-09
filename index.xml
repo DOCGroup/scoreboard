@@ -1,8 +1,12 @@
 <intropage>
     <preamble>
 <P>
-You have reached the logically existing, virtual DOCGroup
-scoreboard.  It shows all the OS/compiler combinations ACE/TAO/CIAO/DANCE and OpenDDS are
+You have reached the logically existing, virtual <a href="https://github.com/DOCGroup">DOCGroup</a>
+scoreboard.  It shows all the OS/compiler combinations 
+<a href="https://github.com/DOCGroup/ACE_TAO">ACE/TAO</a>/
+<a href="https://github.com/DOCGroup/CIAO">CIAO</a>/
+<a href="https://github.com/DOCGroup/DAnCE">DANCE</a> and 
+<a href="https://github.com/objectcomputing/OpenDDS">OpenDDS</a> are
 tested against everyday, all over the world.  We have builds running
 continuously at
 <a href="https://www.remedy.nl">Remedy IT</a>,
@@ -19,7 +23,7 @@ The distributed scoreboard is divided into following categories:
 </p>
 <p>
 If you'd like to contribute builds to our virtual
-scoreboard open a <a href ="https://github.com/DOCGroup/scoreboard">pull request</a>
+scoreboard open a <a href="https://github.com/DOCGroup/scoreboard">pull request</a>
 with the platform you want to contribute.
 Instructions for setting up your own daily build and
 scoreboard are available
