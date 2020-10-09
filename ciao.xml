@@ -2,7 +2,8 @@
   <preamble>
     <center><h1>CIAO/DAnCE Scoreboard</h1></center>
     <hr/>
-    This is the CIAO/DAnCE scoreboard. It shows all the OS/platform combinations on which CIAO and DAnCE
+    This is the CIAO/DAnCE scoreboard. It shows all the OS/platform combinations 
+    on which <a href="https://github.com/DOCGroup/CIAO">CIAO</a> and <a href="https://github.com/DOCGroup/DAnCE">DAnCE</a>
     are tested everyday.
     <hr/>
   </preamble>
