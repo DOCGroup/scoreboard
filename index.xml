@@ -3,9 +3,7 @@
 <P>
 You have reached the logically existing, virtual <a href="https://github.com/DOCGroup">DOCGroup</a>
 scoreboard.  It shows all the OS/compiler combinations 
-<a href="https://github.com/DOCGroup/ACE_TAO">ACE/TAO</a>/
-<a href="https://github.com/DOCGroup/CIAO">CIAO</a>/
-<a href="https://github.com/DOCGroup/DAnCE">DANCE</a> and 
+<a href="https://github.com/DOCGroup/ACE_TAO">ACE/TAO</a>/<a href="https://github.com/DOCGroup/CIAO">CIAO</a>/<a href="https://github.com/DOCGroup/DAnCE">DANCE</a> and 
 <a href="https://github.com/objectcomputing/OpenDDS">OpenDDS</a> are
 tested against everyday, all over the world.  We have builds running
 continuously at
