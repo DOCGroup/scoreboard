@@ -3,8 +3,8 @@
 <center><h1>OpenDDS Scoreboard</h1></center>
 <hr/>
 This is the OpenDDS scoreboard for the micro, minor, and major
-releases. It shows all the OS/platform combinations on which OpenDDS
-is tested everyday.
+releases. It shows all the OS/platform combinations on which 
+<a href="https://github.com/objectcomputing/OpenDDS">OpenDDS</a> is tested everyday.
 <hr/>
 </preamble>
 
