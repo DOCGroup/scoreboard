@@ -14,24 +14,28 @@
       <url>http://scoreboard.ociweb.com/doc_master_tick_linux_gcc_d0o1b32</url>
       <build_sponsor>OCI</build_sponsor>
       <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
+      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
    </build>
    <build>
       <name>Fedora24_32bit_installed</name>
       <url>http://scoreboard.ociweb.com/doc_master_tick_linux_gcc_d0o1b32_inst</url>
       <build_sponsor>OCI</build_sponsor>
       <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
+      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
    </build>
    <build>
       <name>Fedora24_64bit</name>
       <url>http://scoreboard.ociweb.com/doc_master_tick_linux_gcc_d0o1</url>
       <build_sponsor>OCI</build_sponsor>
       <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
+      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
    </build>
    <build>
       <name>Fedora24_64bit_installed</name>
       <url>http://scoreboard.ociweb.com/doc_master_tick_linux_gcc_d0o1_inst</url>
       <build_sponsor>OCI</build_sponsor>
       <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
+      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
    </build>
    <build>
       <name>Fedora24_debug</name>
@@ -44,6 +48,7 @@
       <url>http://scoreboard.ociweb.com/doc_master_tick_linux_gcc_d1o0_inst</url>
       <build_sponsor>OCI</build_sponsor>
       <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
+      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
    </build>
      <build>
       <name>RHEL70_x64_debug</name>
