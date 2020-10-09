@@ -14,12 +14,14 @@ This is the ACE scoreboard. It shows all the OS/platform combinations on which
     <url>http://scoreboard.ociweb.com/doc_master_ant_linux-sb_gcc_d0o1</url>
     <build_sponsor>OCI</build_sponsor>
     <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
+    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
   <build>
     <name>RHEL_71_x64_SafetyExt_Release</name>
     <url>http://scoreboard.ociweb.com/doc_master_ant_linux-se_gcc_d0o1</url>
     <build_sponsor>OCI</build_sponsor>
     <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
+    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
   <build>
     <name>SLES150_i686_debug</name>
