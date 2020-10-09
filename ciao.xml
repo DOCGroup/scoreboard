@@ -1,10 +1,9 @@
 <scoreboard>
   <preamble>
-    <center><h1>CIAO Scoreboard</h1></center>
+    <center><h1>CIAO/DAnCE Scoreboard</h1></center>
     <hr/>
-    This is the CIAO scoreboard for the micro, minor, and major
-    releases. It shows all the OS/platform combinations on which CIAO
-    is tested everyday.
+    This is the CIAO/DAnCE scoreboard. It shows all the OS/platform combinations on which CIAO and DAnCE
+    are tested everyday.
     <hr/>
   </preamble>
   <group>
