@@ -2,9 +2,8 @@
 <preamble>
 <center><h1>TAO Scoreboard</h1></center>
 <hr/>
-This is the TAO scoreboard for the micro, minor, and major
-releases. It shows all the OS/platform combinations on which TAO
-is tested everyday.
+This is the TAO scoreboard. It shows all the OS/platform combinations on which 
+<a href="https://github.com/DOCGroup/ACE_TAO>TAO</a> is tested everyday.
 <hr/>
 </preamble>
 
