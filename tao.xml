@@ -2,7 +2,7 @@
 <preamble>
 <center><h1>TAO Scoreboard</h1></center>
 <hr/>
-This is the TAO scoreboard. It shows all the OS/platform combinations on which 
+This is the TAO scoreboard. It shows all the OS/platform combinations on which
 <a href="https://github.com/DOCGroup/ACE_TAO">TAO</a> is tested everyday.
 <hr/>
 </preamble>
@@ -39,7 +39,7 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
        <url>http://scoreboard.ociweb.com/doc_master_wiro_linux_clang_d1o0</url>
        <build_sponsor>OCI</build_sponsor>
        <build_sponsor_url>http://theaceorb.com</build_sponsor_url>
-       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot> 
+       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
      </build>
      <build>
        <name>Raspberry_Pi_Crosscompile</name>
@@ -79,6 +79,20 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
        <build_sponsor_url>http://www.microfocus.com/products/corba/index.aspx</build_sponsor_url>
        <orange>72</orange>
        <red>168</red>
+     </build>
+     <build>
+      <name>RHEL75_x64_debug</name>
+      <url>https://buildlogs.remedy.nl/rhel75_acetao_debug/</url>
+      <build_sponsor>Remedy IT</build_sponsor>
+      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
+     </build>
+     <build>
+      <name>RHEL75_x64_release</name>
+      <url>https://buildlogs.remedy.nl/rhel75_acetao_release/</url>
+      <build_sponsor>Remedy IT</build_sponsor>
+      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
      </build>
 </group>
 
