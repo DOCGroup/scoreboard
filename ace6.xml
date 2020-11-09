@@ -1,0 +1,10 @@
+<scoreboard>
+<preamble>
+<center><h1>ACE 6.5.x Scoreboard</h1></center>
+<hr/>
+This is the ACE scoreboard for ACE 6.5.x. It shows all the OS/platform combinations on which
+<a href="https://github.com/DOCGroup/ACE_TAO/tree/ace6tao2">ACE 6.5.x</a> is tested everyday.
+<hr/>
+</preamble>
+
+</scoreboard>
