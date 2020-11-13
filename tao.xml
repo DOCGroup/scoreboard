@@ -7,47 +7,8 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
 <hr/>
 </preamble>
 
-<group>
-<name>Android</name>
-   <build>
-      <name>SUSE421_NDKr12b_arm_target</name>
-      <url>http://scoreboard.ociweb.com/doc_master_firefly_android_clang_d1o0</url>
-      <build_sponsor>OCI</build_sponsor>
-      <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-   </build>
-</group>
-
-<group>
-<name>Linux</name>
-     <build>
-       <name>Debian9_Compact_NoInline</name>
-       <url>http://scoreboard.ociweb.com/doc_master_mosquito_linux_gcc_d0o1i0c1</url>
-       <build_sponsor>OCI</build_sponsor>
-       <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
-       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-     </build>
-     <build>
-       <name>Ubuntu_18_04_GCC_10_x64</name>
-       <url>http://scoreboard.ociweb.com/doc_master_wiro_linux_gcc-10_d1o0</url>
-       <build_sponsor>OCI</build_sponsor>
-       <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
-       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-     </build>
-     <build>
-       <name>Ubuntu_18_04_Clang_x64</name>
-       <url>http://scoreboard.ociweb.com/doc_master_wiro_linux_clang_d1o0</url>
-       <build_sponsor>OCI</build_sponsor>
-       <build_sponsor_url>http://theaceorb.com</build_sponsor_url>
-       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-     </build>
-     <build>
-       <name>Raspberry_Pi_Crosscompile</name>
-       <url>http://scoreboard.ociweb.com/doc_master_ant_linux-rpi_gcc_d0o1</url>
-       <build_sponsor>OCI</build_sponsor>
-       <build_sponsor_url>http://theaceorb.com</build_sponsor_url>
-       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-     </build>
+  <group>
+     <name>Linux</name>
      <build>
        <name>RedHat_EL5_x86_inline_gcc44</name>
        <url>http://tao.microfocus.com/scoreboard/rhel5_x86_inline_gcc44</url>
@@ -103,41 +64,6 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
       <url>https://buildlogs.remedy.nl/win_vs2019_tao_debug</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-    </build>
-    <build>
-      <name>Win2012R2x64_VC10_Debug</name>
-      <url>http://scoreboard.ociweb.com/doc_master_cricket_win2012r2-x64_vc10_d1o0</url>
-      <build_sponsor>OCI</build_sponsor>
-      <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-    </build>
-    <build>
-      <name>Win7x64_VC9_Debug</name>
-      <url>http://scoreboard.ociweb.com/doc_master_oci1444_win7-x64_vc9_d1o0</url>
-      <build_sponsor>OCI</build_sponsor>
-      <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-    </build>
-    <build>
-      <name>Win2003_VC71_Debug</name>
-      <url>http://scoreboard.ociweb.com/doc_master_weevil_win2003_vc71_s1d1o0</url>
-      <build_sponsor>OCI</build_sponsor>
-      <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-    </build>
-    <build>
-      <name>Win7x64_VC14_Release_IPv6_WChar</name>
-      <url>http://scoreboard.ociweb.com/doc_master_hornet_win7-x64_vc14_i1d0o1w1</url>
-      <build_sponsor>OCI</build_sponsor>
-      <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-    </build>
-    <build>
-      <name>Win10x64_VS2019_Debug</name>
-      <url>http://scoreboard.ociweb.com/doc_master_katydid_win10-x64_vs2019_d1o0</url>
-      <build_sponsor>OCI</build_sponsor>
-      <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
     </build>
     <build>
