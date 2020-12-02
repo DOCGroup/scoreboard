@@ -120,7 +120,6 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
 </group>
-</scoreboard>
 
 <group>
    <name>Solaris</name>
@@ -134,3 +133,4 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
    </build>
 </group>
 
+</scoreboard>
