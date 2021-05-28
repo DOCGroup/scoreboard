@@ -3,9 +3,9 @@
 <P>
 You have reached the logically existing, virtual <a href="https://github.com/DOCGroup">DOCGroup</a>
 scoreboard.  It shows all the OS/compiler combinations
-<a href="https://github.com/DOCGroup/ACE_TAO">ACE/TAO</a>/<a href="https://github.com/DOCGroup/CIAO">CIAO</a>/<a href="https://github.com/DOCGroup/DAnCE">DAnCE</a> and
+<a href="https://github.com/DOCGroup/ACE_TAO">ACE/TAO</a> and
 <a href="https://github.com/objectcomputing/OpenDDS">OpenDDS</a> are
-tested against everyday, all over the world.  We have builds running
+tested every day, all over the world.  We have builds running
 continuously at
 <a href="https://www.remedy.nl">Remedy IT</a>,
 <a href="http://www.microfocus.com/products/corba/index.aspx">Micro Focus</a>,
@@ -16,7 +16,6 @@ The distributed scoreboard is divided into following categories:
 <li>ACE 6.5.x Builds for Release [<a href="./ace6.html">regular</a>|<a href="ace6.rss">rss</a>]</li>
 <li>TAO Builds for Release [<a href="./tao.html">regular</a>|<a href="tao.rss">rss</a>]</li>
 <li>TAO 2.5.x Builds for Release [<a href="./tao2.html">regular</a>|<a href="tao2.rss">rss</a>]</li>
-<li>CIAO/DAnCE Builds for Release [<a href="./ciao.html">regular</a>|<a href="ciao.rss">rss</a>]</li>
 <li>OpenDDS Builds for Release [<a href="./dds.html">regular</a>|<a href="dds.rss">rss</a>]</li>
 <li><a href="./integrated.html">Integrated</a> page having all the
     above in a single page for folks who like it! </li>
@@ -33,7 +32,7 @@ scoreboard are available
 <h3>Additional Development Process Related Pages</h3>
 <p>
 In addition to the build results found in the Scoreboard described
-above, a number of other ACE/TAO/CIAO/DAnCE development process related web
+above, a number of other ACE/TAO development process related web
 pages we use are the following:
 <ul>
 <li>

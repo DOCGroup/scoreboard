@@ -19,14 +19,13 @@ git pull
 /usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/ace6.xml -o ace6.html -r ace6.rss 2>&1 &
 /usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/tao.xml -o tao.html -r tao.rss 2>&1  &
 /usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/tao2.xml -o tao2.html -r tao2.rss 2>&1  &
-/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/ciao.xml -o ciao.html -r ciao.rss 2>&1  &
 /usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/dds.xml -o dds.html -r dds.rss 2>&1  &
 
 # Generate the test matrices!
 ##testmatrix/update_scoreboard.sh 2>&1 &
 
 # Generate integrated pages!
-/usr/bin/perl ./scoreboard.pl -b -d /export/web/www/scoreboard -z -j $CONFIGDIR/ace.xml,$CONFIGDIR/ace6.xml,$CONFIGDIR/tao.xml,$CONFIGDIR/tao2.xml,$CONFIGDIR/ciao.xml,$CONFIGDIR/dds.xml 2>&1 &
+/usr/bin/perl ./scoreboard.pl -b -d /export/web/www/scoreboard -z -j $CONFIGDIR/ace.xml,$CONFIGDIR/ace6.xml,$CONFIGDIR/tao.xml,$CONFIGDIR/tao2.xml,$CONFIGDIR/dds.xml 2>&1 &
 
 #Generate build matrix
 #/usr/bin/perl buildmatrix/buildmatrix.pl $CONFIGDIR/ace.xml $OUTPUTDIR 1 > /project/taotmp/scoreboard/buildmatrix/output.html 2> /tmp/build.out
