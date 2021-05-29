@@ -15,11 +15,11 @@ git pull
 # Generate the index page!
 /usr/bin/perl ./scoreboard.pl -v -d $OUTPUTDIR -i $CONFIGDIR/index.xml  2>&1 &
 # Generate other pages!
-/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/ace.xml -o ace.html -r ace.rss 2>&1 &
-/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/ace6.xml -o ace6.html -r ace6.rss 2>&1 &
-/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/tao.xml -o tao.html -r tao.rss 2>&1  &
-/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/tao2.xml -o tao2.html -r tao2.rss 2>&1  &
-/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/dds.xml -o dds.html -r dds.rss 2>&1  &
+/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/ace.xml -o ace.html 2>&1 &
+/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/ace6.xml -o ace6.html 2>&1 &
+/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/tao.xml -o tao.html 2>&1  &
+/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/tao2.xml -o tao2.html 2>&1  &
+/usr/bin/perl ./scoreboard.pl -b -d $OUTPUTDIR -f $CONFIGDIR/dds.xml -o dds.html 2>&1  &
 
 # Generate the test matrices!
 ##testmatrix/update_scoreboard.sh 2>&1 &
