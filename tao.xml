@@ -41,6 +41,20 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
     </build>
+  <build>
+    <name>Win10x64_Sydney_10_4_2_bcc32c_Debug</name>
+    <url>https://buildlogs.remedy.nl/win_cbxe13_bcc32c_acetao_debug/</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
+  </build>
+  <build>
+    <name>Win10x64_Sydney_10_4_2_bcc32c_Release</name>
+    <url>https://buildlogs.remedy.nl/win_cbxe13_bcc32c_acetao_release/</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
+  </build>
 </group>
 
 </scoreboard>
