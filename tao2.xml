@@ -154,15 +154,15 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
   <build>
-    <name>Win10x64_Sydney_10_4_2_bcc32_Debug</name>
-    <url>https://buildlogs.remedy.nl/win_cbxe13_bcc32_acetao_debug/</url>
+    <name>Win10x64_Alexandria_11_0_0_bcc32_Debug</name>
+    <url>https://buildlogs.remedy.nl/win_cbxe14_bcc32_acetao_debug/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
   <build>
-    <name>Win10x64_Sydney_10_4_2_bcc32_Release</name>
-    <url>https://buildlogs.remedy.nl/win_cbxe13_bcc32_acetao_release/</url>
+    <name>Win10x64_Alexandria_11_0_0_bcc32_Release</name>
+    <url>https://buildlogs.remedy.nl/win_cbxe14_bcc32_acetao_release/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
