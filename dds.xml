@@ -3,7 +3,7 @@
 <center><h1>OpenDDS Scoreboard</h1></center>
 <hr/>
 This is the OpenDDS scoreboard for the micro, minor, and major
-releases. It shows all the OS/platform combinations on which 
+releases. It shows all the OS/platform combinations on which
 <a href="https://github.com/objectcomputing/OpenDDS">OpenDDS</a> is tested everyday.
 <hr/>
 </preamble>
@@ -52,6 +52,13 @@ releases. It shows all the OS/platform combinations on which
   <build>
     <name>rhel75_opendds_versioned</name>
     <url>https://buildlogs.remedy.nl/rhel75_opendds_versioned/</url>
+    <build_sponsor>Remedy IT</build_sponsor>
+    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
+    <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
+  </build>
+  <build>
+    <name>rhel80_opendds_versioned</name>
+    <url>https://buildlogs.remedy.nl/rhel80_opendds_versioned/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
