@@ -50,13 +50,6 @@ releases. It shows all the OS/platform combinations on which
     <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
   </build>
   <build>
-    <name>rhel75_opendds_versioned</name>
-    <url>https://buildlogs.remedy.nl/rhel75_opendds_versioned/</url>
-    <build_sponsor>Remedy IT</build_sponsor>
-    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
-    <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
-  </build>
-  <build>
     <name>rhel80_opendds_versioned</name>
     <url>https://buildlogs.remedy.nl/rhel80_opendds_versioned/</url>
     <build_sponsor>Remedy IT</build_sponsor>

@@ -10,20 +10,6 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
   <group>
      <name>Linux</name>
      <build>
-      <name>RHEL75_x64_debug</name>
-      <url>https://buildlogs.remedy.nl/rhel75_acetao_debug/</url>
-      <build_sponsor>Remedy IT</build_sponsor>
-      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-     </build>
-     <build>
-      <name>RHEL75_x64_release</name>
-      <url>https://buildlogs.remedy.nl/rhel75_acetao_release/</url>
-      <build_sponsor>Remedy IT</build_sponsor>
-      <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
-      <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-     </build>
-     <build>
       <name>RHEL80_x64_debug</name>
       <url>https://buildlogs.remedy.nl/rhel80_acetao_debug/</url>
       <build_sponsor>Remedy IT</build_sponsor>
