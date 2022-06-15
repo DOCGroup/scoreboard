@@ -133,13 +133,6 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
   <build>
-    <name>Win7x64_VC9_Debug</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_oci1444_win7-x64_vc9_d1o0</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
     <name>Win7x64_VC14_Release_IPv6_WChar</name>
     <url>http://scoreboard.ociweb.com/doc_ace6tao2_hornet_win7-x64_vc14_i1d0o1w1</url>
     <build_sponsor>OCI</build_sponsor>
