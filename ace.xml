@@ -2,7 +2,7 @@
 <preamble>
 <center><h1>ACE Scoreboard</h1></center>
 <hr/>
-This is the ACE scoreboard. It shows all the OS/platform combinations on which 
+This is the ACE scoreboard. It shows all the OS/platform combinations on which
 <a href="https://github.com/DOCGroup/ACE_TAO">ACE</a> is tested everyday.
 <hr/>
 </preamble>
@@ -11,14 +11,14 @@ This is the ACE scoreboard. It shows all the OS/platform combinations on which
   <name>Linux</name>
   <build>
     <name>SLES150_i686_debug</name>
-    <url>https://buildlogs.remedy.nl/sles150_ace_i686_debug/</url>
+    <url>https://download.remedy.nl/buildlogs/sles150_ace_i686_debug/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
    </build>
   <build>
     <name>SLES150_i686_release</name>
-    <url>https://buildlogs.remedy.nl/sles150_ace_i686_release/</url>
+    <url>https://download.remedy.nl/buildlogs/sles150_ace_i686_release/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>

@@ -33,7 +33,7 @@ releases. It shows all the OS/platform combinations on which
   </build>
   <build>
     <name>win_vs2019_opendds_debug</name>
-    <url>https://buildlogs.remedy.nl/win_vs2019_opendds_debug/</url>
+    <url>https://download.remedy.nl/buildlogs/win_vs2019_opendds_debug/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
@@ -44,14 +44,14 @@ releases. It shows all the OS/platform combinations on which
   <name>Linux</name>
   <build>
     <name>fedora_opendds_versioned</name>
-    <url>https://buildlogs.remedy.nl/fc_opendds_versioned/</url>
+    <url>https://download.remedy.nl/buildlogs/fc_opendds_versioned/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
   </build>
   <build>
     <name>rhel80_opendds_versioned</name>
-    <url>https://buildlogs.remedy.nl/rhel80_opendds_versioned/</url>
+    <url>https://download.remedy.nl/buildlogs/rhel80_opendds_versioned/</url>
     <build_sponsor>Remedy IT</build_sponsor>
     <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
     <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>

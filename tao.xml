@@ -11,14 +11,14 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
      <name>Linux</name>
      <build>
       <name>RHEL80_x64_debug</name>
-      <url>https://buildlogs.remedy.nl/rhel80_acetao_debug/</url>
+      <url>https://download.remedy.nl/buildlogs/rhel80_acetao_debug/</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
      </build>
      <build>
       <name>RHEL80_x64_release</name>
-      <url>https://buildlogs.remedy.nl/rhel80_acetao_release/</url>
+      <url>https://download.remedy.nl/buildlogs/rhel80_acetao_release/</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
@@ -29,14 +29,14 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
    <name>Windows</name>
     <build>
       <name>Win_vs2019_Debug</name>
-      <url>https://buildlogs.remedy.nl/win_vs2019_tao_debug</url>
+      <url>https://download.remedy.nl/buildlogs/win_vs2019_tao_debug</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
     </build>
     <build>
       <name>MingW64_Win64_GCC_Release</name>
-      <url>https://buildlogs.remedy.nl/win_mingw64_64_tao</url>
+      <url>https://download.remedy.nl/buildlogs/win_mingw64_64_tao</url>
       <build_sponsor>Remedy IT</build_sponsor>
       <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
       <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
