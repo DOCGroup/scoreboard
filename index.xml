@@ -12,11 +12,11 @@ continuously at
 <a href="https://www.objectcomputing.com">Object Computing Inc</a>.
 <p>
 The distributed scoreboard is divided into following categories:
-<li>ACE Builds for Release [<a href="./ace.html">regular</a>|<a href="ace.rss">rss</a>]</li>
-<li>ACE 6.5.x Builds for Release [<a href="./ace6.html">regular</a>|<a href="ace6.rss">rss</a>]</li>
-<li>TAO Builds for Release [<a href="./tao.html">regular</a>|<a href="tao.rss">rss</a>]</li>
-<li>TAO 2.5.x Builds for Release [<a href="./tao2.html">regular</a>|<a href="tao2.rss">rss</a>]</li>
-<li>OpenDDS Builds for Release [<a href="./dds.html">regular</a>|<a href="dds.rss">rss</a>]</li>
+<li>ACE Builds for Release [<a href="./ace.html">regular</a>]</li>
+<li>ACE 6.5.x Builds for Release [<a href="./ace6.html">regular</a>]</li>
+<li>TAO Builds for Release [<a href="./tao.html">regular</a>]</li>
+<li>TAO 2.5.x Builds for Release [<a href="./tao2.html">regular</a>]</li>
+<li>OpenDDS Builds for Release [<a href="./dds.html">regular</a>]</li>
 <li><a href="./integrated.html">Integrated</a> page having all the
     above in a single page for folks who like it! </li>
 </p>
