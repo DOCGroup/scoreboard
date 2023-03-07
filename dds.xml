@@ -31,13 +31,6 @@ releases. It shows all the OS/platform combinations on which
     <build_sponsor_url>http://www.opendds.org</build_sponsor_url>
     <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
   </build>
-  <build>
-    <name>win_vs2019_opendds_debug</name>
-    <url>https://download.remedy.nl/buildlogs/win_vs2019_opendds_debug/</url>
-    <build_sponsor>Remedy IT</build_sponsor>
-    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
-    <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
-  </build>
 </group>
 
 <group>
