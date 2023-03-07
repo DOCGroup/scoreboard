@@ -36,13 +36,6 @@ releases. It shows all the OS/platform combinations on which
 <group>
   <name>Linux</name>
   <build>
-    <name>fedora_opendds_versioned</name>
-    <url>https://download.remedy.nl/buildlogs/fc_opendds_versioned/</url>
-    <build_sponsor>Remedy IT</build_sponsor>
-    <build_sponsor_url>https://www.remedy.nl</build_sponsor_url>
-    <diffroot>https://github.com/objectcomputing/OpenDDS/commit/</diffroot>
-  </build>
-  <build>
     <name>rhel80_opendds_versioned</name>
     <url>https://download.remedy.nl/buildlogs/rhel80_opendds_versioned/</url>
     <build_sponsor>Remedy IT</build_sponsor>
