@@ -8,25 +8,7 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
 </preamble>
 
 <group>
-  <name>Android</name>
-  <build>
-    <name>SUSE421_NDKr12b_arm_target</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_firefly_android_clang_d1o0</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-</group>
-
-<group>
   <name>Linux</name>
-  <build>
-    <name>Debian9_Compact_NoInline</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_mosquito_linux_gcc_d0o1i0c1</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://theaceorb.com/</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
   <build>
     <name>ACE6_TAO2_Ubuntu_22_04_GCC13_x64_Debug</name>
     <url>https://storage.googleapis.com/oci-scoreboard/ACE6_TAO2_Ubuntu_22_04_GCC13_x64_Debug</url>
@@ -37,13 +19,6 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
   <build>
     <name>ACE6_TAO2_Ubuntu_22_04_Clang17_x64_Debug</name>
     <url>https://storage.googleapis.com/oci-scoreboard/ACE6_TAO2_Ubuntu_22_04_Clang17_x64_Debug</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
-    <name>Raspberry_Pi_Crosscompile</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_ant_linux-rpi_gcc_d0o1</url>
     <build_sponsor>OCI</build_sponsor>
     <build_sponsor_url>http://theaceorb.com</build_sponsor_url>
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
@@ -71,72 +46,6 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
     <build_sponsor_url>http://www.microfocus.com/products/corba/index.aspx</build_sponsor_url>
     <orange>72</orange>
     <red>168</red>
-  </build>
-  <build>
-    <name>Fedora24_32bit</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_tick_linux_gcc_d0o1b32</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
-    <name>Fedora24_32bit_installed</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_tick_linux_gcc_d0o1b32_inst</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
-    <name>Fedora24_64bit</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_tick_linux_gcc_d0o1</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
-    <name>Fedora24_64bit_installed</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_tick_linux_gcc_d0o1_inst</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
-    <name>Fedora24_debug</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_tick_linux_gcc_d1o0</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-  </build>
-  <build>
-    <name>Fedora24_debug_installed</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_tick_linux_gcc_d1o0_inst</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-</group>
-
-<group>
-  <name>Windows</name>
-  <build>
-    <name>Win2012R2x64_VC10_Debug</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_cricket_win2012r2-x64_vc10_d1o0</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
-    <name>Win7x64_VC14_Release_IPv6_WChar</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_hornet_win7-x64_vc14_i1d0o1w1</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
-  </build>
-  <build>
-    <name>Win10x64_VS2019_Debug</name>
-    <url>http://scoreboard.ociweb.com/doc_ace6tao2_katydid_win10-x64_vs2019_d1o0</url>
-    <build_sponsor>OCI</build_sponsor>
-    <build_sponsor_url>http://www.theaceorb.com</build_sponsor_url>
-    <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
 </group>
 
