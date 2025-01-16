@@ -23,30 +23,6 @@ This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on w
     <build_sponsor_url>http://theaceorb.com</build_sponsor_url>
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
-  <build>
-    <name>RedHat_EL6_x64_inline</name>
-    <url>http://tao.microfocus.com/scoreboard/rhel6_x64_inline</url>
-    <build_sponsor>Micro Focus</build_sponsor>
-    <build_sponsor_url>http://www.microfocus.com/products/corba/index.aspx</build_sponsor_url>
-    <orange>72</orange>
-    <red>168</red>
-  </build>
-  <build>
-    <name>RedHat_EL6_x86_debug</name>
-    <url>http://tao.microfocus.com/scoreboard/rhel6_x86_debug</url>
-    <build_sponsor>Micro Focus</build_sponsor>
-    <build_sponsor_url>http://www.microfocus.com/products/corba/index.aspx</build_sponsor_url>
-    <orange>72</orange>
-    <red>168</red>
-  </build>
-  <build>
-    <name>RedHat_EL7_x64_dev</name>
-    <url>http://tao.microfocus.com/scoreboard/rhel7_x64_dev</url>
-    <build_sponsor>Micro Focus</build_sponsor>
-    <build_sponsor_url>http://www.microfocus.com/products/corba/index.aspx</build_sponsor_url>
-    <orange>72</orange>
-    <red>168</red>
-  </build>
 </group>
 
 </scoreboard>
