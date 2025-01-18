@@ -1,6 +1,16 @@
 <scoreboard>
+
+<prop matrix_title="ACE Scoreboard Test Matrix"/>
+<prop matrix_basename="ace"/>
+<prop source_link="https://github.com/DOCGroup/ACE_TAO/blob/master/"/>
+
 <preamble>
-<center><h1>ACE Scoreboard</h1></center>
+<center>
+  <h1>ACE Scoreboard</h1>
+  <div style="font: bold 14pt verdana;">
+    <a style="background-color: green; color: white; padding: 5px 5px;" href="ace-matrix.html">Test Matrix</a>
+  </div>
+</center>
 <hr/>
 This is the ACE scoreboard. It shows all the OS/platform combinations on which
 <a href="https://github.com/DOCGroup/ACE_TAO">ACE</a> is tested everyday.

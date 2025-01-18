@@ -1,6 +1,16 @@
 <scoreboard>
+
+<prop matrix_title="TAO 2.5.x Scoreboard Test Matrix"/>
+<prop matrix_basename="tao2"/>
+<prop source_link="https://github.com/DOCGroup/ACE_TAO/blob/ace6tao2/"/>
+
 <preamble>
-<center><h1>TAO 2.5.x Scoreboard</h1></center>
+<center>
+  <h1>TAO 2.5.x Scoreboard</h1>
+  <div style="font: bold 14pt verdana;">
+    <a style="background-color: green; color: white; padding: 5px 5px;" href="tao2-matrix.html">Test Matrix</a>
+  </div>
+</center>
 <hr/>
 This is the TAO 2.5.x scoreboard. It shows all the OS/platform combinations on which
 <a href="https://github.com/DOCGroup/ACE_TAO/tree/ace6tao2">TAO 2.5.x</a> is tested everyday.
