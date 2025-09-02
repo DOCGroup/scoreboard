@@ -27,8 +27,8 @@ This is the TAO scoreboard. It shows all the OS/platform combinations on which
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
   </build>
   <build>
-    <name>Ubuntu_22_04_Clang20_x64_Debug</name>
-    <url>https://storage.googleapis.com/oci-scoreboard/ACE_TAO_Ubuntu_22_04_Clang20_x64_Debug</url>
+    <name>Ubuntu_22_04_Clang21_x64_Debug</name>
+    <url>https://storage.googleapis.com/oci-scoreboard/ACE_TAO_Ubuntu_22_04_Clang21_x64_Debug</url>
     <build_sponsor>OCI</build_sponsor>
     <build_sponsor_url>http://theaceorb.com</build_sponsor_url>
     <diffroot>https://github.com/DOCGroup/ACE_TAO/commit/</diffroot>
